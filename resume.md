@@ -8,14 +8,15 @@ Dedicated and hardworking professional, offering hands-on years of experience in
 ___
 ## Work Experience
 ___
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mark_of_the_United_States_Army.svg/330px-Mark_of_the_United_States_Army.svg.png "Service mark of the US Army")
 ### U.S. Army, Fort Belvoir, VA
 >Clinic Supervisor – Fort Belvoir Community Hospital (FBCH)
 >>Focused on providing the highest level of patient care by working in close collaboration with 4N FBCH and 7W Walter Reed National Military Medical Center directors. Devised robust communication strategies and introduced an appropriate course of action plan, facilitating Inpatient Psychiatric units in both hospitals.
 ___
 ## Education
-Bachelor of Arts - Major: Geography with Data Science, In-progress        *University of Washington, Seattle, WA*
+1. Bachelor of Arts - Major: Geography with Data Science, In-progress        *University of Washington, Seattle, WA*
 
-Associate Degree - Major: Business Accounting, 2015                       *Highline College, Des Moines, WA*
+2. Associate Degree - Major: Business Accounting, 2015                       *Highline College, Des Moines, WA*
 ___
 ## Software Skills
 |Strong Experience|Moderate Experience|Basic Experience|
