@@ -8,9 +8,6 @@ Dedicated and hardworking professional, offering hands-on years of experience in
 ### U.S. Army, Fort Belvoir, VA
 >Clinic Supervisor – [Fort Belvoir Community Hospital](https://www.facebook.com/belvoirhospital/) (FBCH)
 >>Focused on providing the highest level of patient care by working in close collaboration with 4N FBCH and 7W Walter Reed National Military Medical Center directors. Devised robust communication strategies and introduced an appropriate course of action plan, facilitating Inpatient Psychiatric units in both hospitals.
-
-___
-
 ## Education
 1. Bachelor of Arts - Major: Geography with Data Science, In-progress        *University of Washington, Seattle, WA*
 
