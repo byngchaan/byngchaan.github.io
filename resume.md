@@ -1,13 +1,9 @@
 # Byungchan Lim
-___
 http://www.linkedin.com/in/byungchan-lim
-___
 ## Summary
 
 Dedicated and hardworking professional, offering hands-on years of experience in clinical and technical operations with extensive fast-paced environments
-___
 ## Work Experience
-___
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mark_of_the_United_States_Army.svg/330px-Mark_of_the_United_States_Army.svg.png "Service mark of the US Army")
 ### U.S. Army, Fort Belvoir, VA
 >Clinic Supervisor – [Fort Belvoir Community Hospital](https://www.facebook.com/belvoirhospital/) (FBCH)
@@ -19,8 +15,6 @@ ___
 1. Bachelor of Arts - Major: Geography with Data Science, In-progress        *University of Washington, Seattle, WA*
 
 2. Associate Degree - Major: Business Accounting, 2015                       *Highline College, Des Moines, WA*
-
-___
 
 ## Software Skills
 |Strong Experience|Moderate Experience|Basic Experience|
