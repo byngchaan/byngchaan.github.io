@@ -17,7 +17,5 @@ Dedicated and hardworking professional, offering hands-on years of experience in
 
 ## Software Skills
 |Strong Experience|Moderate Experience|Basic Experience|
-
 |---|---|---|
-
 |Microsoft Office, ArcGIS and Pro, QGIS|R language, Python|Java, MapBox|
