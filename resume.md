@@ -1,5 +1,5 @@
 # Byungchan Lim
-http://www.linkedin.com/in/byungchan-lim
+[LinkedIn](http://www.linkedin.com/in/byungchan-lim)
 ## Summary
 
 Dedicated and hardworking professional, offering hands-on years of experience in clinical and technical operations with extensive fast-paced environments
